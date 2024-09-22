@@ -1,0 +1,1 @@
+# plugins-content-aware-sidebars
